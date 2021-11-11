@@ -1,0 +1,14 @@
+2021-11-08 10:12:15.992 -03:00 [INF] Logger funcionado...
+2021-11-08 10:12:16.402 -03:00 [INF] Starting...
+2021-11-08 10:12:23.877 -03:00 [INF] User profile is available. Using 'C:\Users\Carlos\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-11-08 10:12:24.760 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-11-08 10:12:24.788 -03:00 [INF] Hosting environment: Development
+2021-11-08 10:12:24.797 -03:00 [INF] Content root path: C:\Users\Carlos\Desktop\6ºTermo\LPI\2Bim\ECommerce\ECommerce
+2021-11-08 10:12:24.901 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:20703/ - -
+2021-11-08 10:12:25.099 -03:00 [INF] Executing endpoint 'ECommerce.Controllers.HomeController.Index (ECommerce)'
+2021-11-08 10:12:25.224 -03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller ECommerce.Controllers.HomeController (ECommerce).
+2021-11-08 10:12:25.276 -03:00 [INF] Executing ViewResult, running view Index.
+2021-11-08 10:12:25.479 -03:00 [INF] Executed ViewResult - view Index executed in 194.9021ms.
+2021-11-08 10:12:25.488 -03:00 [INF] Executed action ECommerce.Controllers.HomeController.Index (ECommerce) in 257.0029ms
+2021-11-08 10:12:25.959 -03:00 [INF] Executed endpoint 'ECommerce.Controllers.HomeController.Index (ECommerce)'
+2021-11-08 10:12:26.292 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:20703/ - - - 200 - text/html;+charset=utf-8 1404.0937ms
